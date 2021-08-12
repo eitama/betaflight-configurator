@@ -77,6 +77,7 @@ const BOARD_DEFINITIONS = [
     {name: 'ZCOREF3', identifier: 'ZCF3', vcp: false},
 ];
 
+// blablabla
 const DEFAULT_BOARD_DEFINITION = {
     name: "Unknown", identifier: "????", vcp: false
 };
